@@ -3,7 +3,7 @@
 # Ryan Weerasinghe
 
 <!-- profile-sync:start -->
-**Email**
+**QUT Engineering & IT student | PC builder & hardware enthusiast | Open to sales, IT support & PC building roles**
 
 Currently: **Remote PC Building Consultant**, FeraTech
 <!-- profile-sync:end -->
