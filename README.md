@@ -2,7 +2,11 @@
 
 # Ryan Weerasinghe
 
-**Engineering & IT Student @ QUT | PC Builder | Robotics**
+<!-- profile-sync:start -->
+**QUT Engineering & IT student | PC builder & hardware enthusiast | Open to sales, IT support & PC building roles**
+
+Currently: **Remote PC Building Consultant**, FeraTech
+<!-- profile-sync:end -->
 
 <a href="https://www.linkedin.com/in/ryan-weerasinghe/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ryanweera@icloud.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
